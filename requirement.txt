@@ -1,0 +1,5 @@
+#Django==1.5
+#south
+#django-bootstrap3
+django-crispy-forms
+
